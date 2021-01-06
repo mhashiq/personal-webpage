@@ -58,6 +58,7 @@ section{
     /* margin-top: 50px; */
     margin: 0 10%;
     background-repeat: no-repeat;
+<<<<<<< HEAD
     background-position: center;
  }
 
@@ -81,6 +82,9 @@ section{
  }
 
  .one-by-one-vcard {
+=======
+    
+>>>>>>> c045e0d4c19c9cc8774f90c342a7fa6a631867b8
 
  }
 
@@ -226,6 +230,7 @@ input[type=text], select, textarea {
 
 #contact-middle{
     text-align: center;
+<<<<<<< HEAD
 }
 
 
@@ -237,3 +242,8 @@ input[type=text], select, textarea {
     font-family: revert;
     padding-top: 30px;
 }
+=======
+    font-size: 12px;
+    color: gray;
+}
+>>>>>>> c045e0d4c19c9cc8774f90c342a7fa6a631867b8
